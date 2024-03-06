@@ -10,6 +10,7 @@ namespace WebApplication9.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+            int a = 5;
             _logger = logger;
         }
 
