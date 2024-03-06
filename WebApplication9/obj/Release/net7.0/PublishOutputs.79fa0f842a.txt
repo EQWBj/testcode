@@ -1,0 +1,7 @@
+D:\mvc core 08062023\WebApplication9\obj\Release\net7.0\PubTmp\Out\WebApplication9.exe
+D:\mvc core 08062023\WebApplication9\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\mvc core 08062023\WebApplication9\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\mvc core 08062023\WebApplication9\obj\Release\net7.0\PubTmp\Out\WebApplication9.dll
+D:\mvc core 08062023\WebApplication9\obj\Release\net7.0\PubTmp\Out\WebApplication9.deps.json
+D:\mvc core 08062023\WebApplication9\obj\Release\net7.0\PubTmp\Out\WebApplication9.runtimeconfig.json
+D:\mvc core 08062023\WebApplication9\obj\Release\net7.0\PubTmp\Out\WebApplication9.pdb
